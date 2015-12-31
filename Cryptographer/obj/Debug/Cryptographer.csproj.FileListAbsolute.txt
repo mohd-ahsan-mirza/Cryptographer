@@ -1,0 +1,10 @@
+C:\Users\Ahsan\Dropbox\Education\C#\Cryptographer\Cryptographer\bin\Debug\Cryptographer.exe.config
+C:\Users\Ahsan\Dropbox\Education\C#\Cryptographer\Cryptographer\obj\Debug\Cryptographer.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Dropbox\Education\C#\Cryptographer\Cryptographer\obj\Debug\Cryptographer.Form1.resources
+C:\Users\Ahsan\Dropbox\Education\C#\Cryptographer\Cryptographer\obj\Debug\Cryptographer.Properties.Resources.resources
+C:\Users\Ahsan\Dropbox\Education\C#\Cryptographer\Cryptographer\obj\Debug\Cryptographer.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Dropbox\Education\C#\Cryptographer\Cryptographer\bin\Debug\Cryptographer.exe
+C:\Users\Ahsan\Dropbox\Education\C#\Cryptographer\Cryptographer\bin\Debug\Cryptographer.pdb
+C:\Users\Ahsan\Dropbox\Education\C#\Cryptographer\Cryptographer\obj\Debug\Cryptographer.exe
+C:\Users\Ahsan\Dropbox\Education\C#\Cryptographer\Cryptographer\obj\Debug\Cryptographer.pdb
+C:\Users\Ahsan\Dropbox\Education\C#\Cryptographer\Cryptographer\bin\Debug\ConsoleAppForTranslator.dll
